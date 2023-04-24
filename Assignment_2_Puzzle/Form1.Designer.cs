@@ -252,7 +252,7 @@
             btn_4.Font = new Font("Segoe UI Semibold", 36F, FontStyle.Bold, GraphicsUnit.Point);
             btn_4.Location = new Point(136, 116);
             btn_4.Name = "btn_4";
-            btn_4.Size = new Size(127, 106);
+            btn_4.Size = new Size(128, 107);
             btn_4.TabIndex = 3;
             btn_4.Text = "4";
             btn_4.UseVisualStyleBackColor = false;
